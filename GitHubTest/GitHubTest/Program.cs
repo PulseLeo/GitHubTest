@@ -10,9 +10,16 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
+            int i = 6, j = 6;
+            int result = i + j;
 
+            Console.WriteLine("I + J =" + result);
             Console.WriteLine("hello world");
             Console.ReadLine();
+
+            
+
+            
 
         }
     }
